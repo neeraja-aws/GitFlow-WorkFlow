@@ -3,12 +3,12 @@ Pseudo code
 Initial Function()
 {
 	//sample code
-	//Added some extra code in feature1 for bug fixes
 }
 
 Feature1()
 {
 	//This is feature1 code
+	//Added extra functionality for bug fixes
 }
 
 Feature2()
